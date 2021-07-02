@@ -75,3 +75,35 @@ table.dataTable thead td {
 .badge-primary {
   background-color: #fc2a2a !important;
 }
+
+.form-control:hover {
+  border-color: #f5ad1e !important;
+}
+
+.colorfull-select .bag-secondary .ms-choice {
+  background-color: #f8f9fa;
+  color: #373737 !important;
+}
+
+.ms-drop ul > li.hide-radio.selected {
+  background-color: #f5ad1e67 !important;
+  color: #373737 !important;
+}
+
+.colorfull-select .bag-secondary .ms-choice > div.icon-caret {
+  border-color: #888 transparent transparent transparent;
+}
+
+.table-contentpos .badge .svg-sm,
+.resulttable-pos .badge .svg-sm {
+  cursor: pointer;
+}
+
+.pos-order {
+  border: 1px solid #d9dde0;
+  border-radius: 12px;
+}
+
+.pos-order .orderdetail-pos p:last-child {
+  color: #1a3353;
+}
